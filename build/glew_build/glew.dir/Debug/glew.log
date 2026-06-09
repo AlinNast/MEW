@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/Alin1/Documents/Github/MEW/thirdparty/glew/build/cmake/CMakeLists.txt
+  glew.c
+     Creating library C:/Users/Alin1/Documents/Github/MEW/build/lib/Debug/glew32d.lib and object C:/Users/Alin1/Documents/Github/MEW/build/lib/Debug/glew32d.exp
+LINK : warning LNK4281: undesirable base address 0x62AA0000 for x64 image; set base address above 4GB for best ASLR optimization
+  glew.vcxproj -> C:\Users\Alin1\Documents\Github\MEW\build\bin\Debug\glew32d.dll

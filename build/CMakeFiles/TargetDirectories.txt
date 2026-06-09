@@ -1,0 +1,15 @@
+C:/Users/Alin1/Documents/Github/MEW/build/CMakeFiles/GameDevelopmentProject.dir
+C:/Users/Alin1/Documents/Github/MEW/build/CMakeFiles/INSTALL.dir
+C:/Users/Alin1/Documents/Github/MEW/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alin1/Documents/Github/MEW/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glfw_build/CMakeFiles/uninstall.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glfw_build/CMakeFiles/INSTALL.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glfw_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glfw_build/src/CMakeFiles/glfw.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glfw_build/src/CMakeFiles/update_mappings.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glfw_build/src/CMakeFiles/INSTALL.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glfw_build/docs/CMakeFiles/INSTALL.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glew_build/CMakeFiles/glew.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glew_build/CMakeFiles/glew_s.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glew_build/CMakeFiles/INSTALL.dir
+C:/Users/Alin1/Documents/Github/MEW/build/glew_build/CMakeFiles/ALL_BUILD.dir

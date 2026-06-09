@@ -1,0 +1,10 @@
+^C:\USERS\ALIN1\DOCUMENTS\GITHUB\MEW\THIRDPARTY\GLEW\BUILD\CMAKE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alin1/Documents/Github/MEW -BC:/Users/Alin1/Documents/Github/MEW/build --check-stamp-file C:/Users/Alin1/Documents/Github/MEW/build/glew_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

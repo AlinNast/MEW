@@ -1,0 +1,10 @@
+^C:\USERS\ALIN1\DOCUMENTS\GITHUB\MEW\BUILD\CMAKEFILES\1346EB7F6191738555DB0FC75AF38CB9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alin1/Documents/Github/MEW -BC:/Users/Alin1/Documents/Github/MEW/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Alin1/Documents/Github/MEW/build/GameDevelopmentProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
