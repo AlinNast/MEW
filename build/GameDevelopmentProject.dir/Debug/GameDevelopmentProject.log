@@ -1,2 +1,4 @@
 ﻿  main.cpp
+C:\Users\Alin1\Documents\Github\MEW\source\main.cpp(559,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alin1\Documents\Github\MEW\source\main.cpp(558,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   GameDevelopmentProject.vcxproj -> C:\Users\Alin1\Documents\Github\MEW\build\Debug\GameDevelopmentProject.exe
